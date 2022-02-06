@@ -23,3 +23,6 @@ Water Quality Monitoring (WQM) is a cost-effective and efficient system designed
 
 ## Learning Resource
 * https://cleanwaterai.com
+* https://www.mdpi.com/1424-8220/20/12/3432/htm
+* https://www.who.int/water_sanitation_health/dwq/iwachap13.pdf
+* https://www.nature.com/articles/srep23935
