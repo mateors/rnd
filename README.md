@@ -19,3 +19,7 @@ Water Quality Monitoring (WQM) is a cost-effective and efficient system designed
 
 * ThinkSpeak application
 * One data transmission module ESP8266 Wi-Fi module (NodeMCU)
+
+
+## Learning Resource
+* https://cleanwaterai.com
